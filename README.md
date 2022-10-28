@@ -54,18 +54,18 @@ Women in Tech Academy proje kapsamında verilen python ödevleri yer almaktadır
 <details>
 <summary><h3> 5-VeriYapilari_Odev </h3></summary>
 
-5.1.Soru : 0 - 20 arasında karışık sırada sayıları tutan bir liste mevcut. Bu liste içerisinde n tane sayı eksik. n ve eksik sayıları bulan program yer almaktadır.
+<h3> 5.1.Soru : </h3> 0 - 20 arasında karışık sırada sayıları tutan bir liste mevcut. Bu liste içerisinde n tane sayı eksik. n ve eksik sayıları bulan program yer almaktadır.
 
 * Örnek: my_list = [0, 7, 5, 8, 2] -> 0-10 arasında
 * 6 adet sayı eksiktir. Eksik olan sayılar [1, 3, 4, 6, 9, 10]
 
-5.2.Soru : 0'dan 100'e kadar karışık sırada sayıları tutan bir liste mevcut. Bu liste içerisinde bu defa n tane sayı yerine 1 adet sayı eksik. Eksik olan sayıyı bulan program yer almaktadır.
+<h3> 5.2.Soru : </h3> 0'dan 100'e kadar karışık sırada sayıları tutan bir liste mevcut. Bu liste içerisinde bu defa n tane sayı yerine 1 adet sayı eksik. Eksik olan sayıyı bulan program yer almaktadır.
 
-5.3.Soru : Bir liste üzerinde sıralama algoritmasını kullanarak listeyi sıralayan program yer almaktadır.
+<h3> 5.3.Soru : </h3> Bir liste üzerinde sıralama algoritmasını kullanarak listeyi sıralayan program yer almaktadır.
 
 ![bubble-sort](https://user-images.githubusercontent.com/74510793/198738708-98ab129a-bdb2-4bf4-b5e9-46f9d1ddfd7b.gif)
 
-5.4.Soru : Fonksiyon bir integer array nums ve bir hedef target değişkeni almalı ve bizlere toplamı target olan indexleri dönen bir program yer almaktadır.
+<h3> 5.4.Soru : </h3> Fonksiyon bir integer array nums ve bir hedef target değişkeni almalı ve bizlere toplamı target olan indexleri dönen bir program yer almaktadır.
 
 * Kurallar: Aynı index’teki değeri iki defa kullanamayız.
 
