@@ -62,6 +62,7 @@ Women in Tech Academy proje kapsamında verilen python ödevleri yer almaktadır
 <h3> 5.2.Soru : </h3> 0'dan 100'e kadar karışık sırada sayıları tutan bir liste mevcut. Bu liste içerisinde bu defa n tane sayı yerine 1 adet sayı eksik. Eksik olan sayıyı bulan program yer almaktadır.
 
 <h3> 5.3.Soru : </h3> Bir liste üzerinde sıralama algoritmasını kullanarak listeyi sıralayan program yer almaktadır.
+  
 
 ![bubble-sort](https://user-images.githubusercontent.com/74510793/198738708-98ab129a-bdb2-4bf4-b5e9-46f9d1ddfd7b.gif)
 
